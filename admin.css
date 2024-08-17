@@ -118,6 +118,9 @@ svg:hover{
     padding: 4px ;
     border: 1px solid;
 }
+.edit-packages-wrapper>div>div:nth-child(2)>div:nth-child(2)>div:nth-child(1)>input:focus{
+    outline: none;
+}
 
 
 
@@ -210,6 +213,10 @@ svg:hover{
     padding: 4px ;
     border: 1px solid;
 }
+.edit-customize-wrapper>div>div:nth-child(2)>div:nth-child(2)>div:nth-child(1)>input:focus{
+    outline: none;
+}
+
 
 
 
